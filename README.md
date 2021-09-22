@@ -8,7 +8,7 @@
 
 -🥅 2021 Goals: Learn and improve myself as much as I can
 
-[LinkedIN](https://www.linkedin.com/in/filiz-g%C3%BCrsan-56685a151/)    [Medium]( https://filizzgursan.medium.com/)
+[LinkedIN](https://www.linkedin.com/in/filiz-g%C3%BCrsan-56685a151/)                        [Medium]( https://filizzgursan.medium.com/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filizgursan&theme=tokyonight)
 
