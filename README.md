@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/filiz-g%c3%bcrsan-56685a151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filiz-g%c3%bcrsan-56685a151/" height="40" width="40" /></a>
-<a href="https://medium.com/@filizgursan" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@filizgursan" height="40" width="40" /></a>
+<a href="https://filizzgursan.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@filizgursan" height="40" width="40" /></a>
 <a href="/filizzgursan@gmail.com" target="blank"><img align="center" src="https://www.webtekno.com/images/editor/default/0002/75/772ae92a875d5450df8cf784295f8af1b0b9025b.jpeg" alt="filizzgursan@gmail.com" height="30" width="40" /></a>
 </p>
 
