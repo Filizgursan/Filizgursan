@@ -15,7 +15,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filizgursan&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/apiusername=Filizgursan&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Filizgursan&show_icons=true&theme=tokyonight)
+
 
 
 
