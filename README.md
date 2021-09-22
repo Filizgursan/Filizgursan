@@ -2,11 +2,11 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/Filizgursan?label=Follow&style=social)](https://github.com/Filizgursan)
 
--🔭 I’m currently working with Microsoft Dynamics Axapta 2009 
+🔭 I’m currently working with Microsoft Dynamics Axapta 2009 
 
--👯  I’m looking to collaborate with other content creators
+👯  I’m looking to collaborate with other content creators
 
--🥅 2021 Goals: Learn and improve myself as much as I can
+🥅 2021 Goals: Learn and improve myself as much as I can
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
