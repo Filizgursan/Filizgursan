@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/Filizgursan?label=Follow&style=social)](https://github.com/Filizgursan)
+
 -🔭 I’m currently working with Microsoft Dynamics Axapta 2009 
 
 -👯  I’m looking to collaborate with other content creators
@@ -11,8 +13,6 @@
 [Medium]( https://filizzgursan.medium.com/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filizgursan&theme=tokyonight)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/Filizgursan?label=Follow&style=social)](https://github.com/Filizgursan)
 
 ![](https://github-readme-stats.vercel.app/api?username=Filizgursan&show_icons=true&theme=radical)
 
