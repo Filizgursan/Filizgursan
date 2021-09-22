@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/filizzgursan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="filizzgursan@gmail.com" height="30" width="40" /></a>
+<a href="/filizzgursan@gmail.com" target="blank"><img align="center" src="https://www.webtekno.com/images/editor/default/0002/75/772ae92a875d5450df8cf784295f8af1b0b9025b.jpeg" alt="filizzgursan@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
