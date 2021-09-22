@@ -12,9 +12,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filizgursan&theme=tokyonight)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)
+![](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/Filizgursan?label=Follow&style=social)](https://github.com/Filizgursan)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filizgursan&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Filizgursan&show_icons=true&theme=radical)
 
 
 
