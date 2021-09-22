@@ -9,12 +9,10 @@
 -🥅 2021 Goals: Learn and improve myself as much as I can2
 
 ## ✉️ Find me on:
-
-
 <p align="center">
- <a href="https://filizzgursan.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://filizzgursan.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@filizgursan" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/filiz-g%C3%BCrsan-56685a151/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="filizzgursan@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="filizzgursan@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="https://www.linkedin.com/in/filiz-g%c3%bcrsan-56685a151/" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 <br />
 
