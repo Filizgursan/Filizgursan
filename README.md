@@ -1,4 +1,4 @@
-### Hi there, I'm Filiz Gürsan - [![Github](https://github.com/CharalambosIoannou) 👋
+### Hi there, I'm Filiz Gürsan - ![Github](https://github.com/Filizgursan) 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/Filizgursan?label=Follow&style=social)](https://github.com/Filizgursan)
 
