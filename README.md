@@ -10,6 +10,8 @@
 
 [Medium]( https://filizzgursan.medium.com/)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filizgursan&show_icons=true&theme=radical)
 
 
