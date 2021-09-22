@@ -6,7 +6,7 @@
 
 -👯  I’m looking to collaborate with other content creators
 
--🥅 2021 Goals: Learn and improve myself as much as I can2
+-🥅 2021 Goals: Learn and improve myself as much as I can
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
