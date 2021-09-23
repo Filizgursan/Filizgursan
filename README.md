@@ -8,7 +8,7 @@
 
 🥅 2021 Goals: Learn and improve myself as much as I can
 
-- 📫 How to reach me **filizzgursan@gmail.com**
+📫 How to reach me **filizzgursan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
