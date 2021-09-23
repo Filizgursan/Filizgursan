@@ -12,7 +12,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[![Filiz Gürsan](https://medium.com/@filizzgursan)
+[![Filiz Gürsan](https://github-readme-medium.vercel.app/?username=filizzgursan)](https://medium.com/@filizzgursan)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
