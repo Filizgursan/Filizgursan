@@ -1,6 +1,6 @@
 ### Hi there, I'm Filiz Gürsan - [Filizgursan](https://github.com/Filizgursan) 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/Filizgursan?label=Follow&style=social)](https://github.com/Filizgursan)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/Filizgursan?label=Follow&style=social)](https://github.com/Filizgursan)
 
 🔭 I’m currently working with Microsoft Dynamics Axapta 2009 
 
