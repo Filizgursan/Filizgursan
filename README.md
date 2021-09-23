@@ -1,6 +1,4 @@
-<h1 align="center"> Hi there, I'm Filiz Gürsan (https://github.com/Filizgursan) 👋 </h1>
-
-### Hi there, I'm İlknur Su - [Filizgursan](https://github.com/Filizgursan) 👋 
+### <h1 align="center"> Hi there, I'm Filiz Gürsan 👋 </h1>
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/Filizgursan?label=Follow&style=social)](https://github.com/Filizgursan)
 
