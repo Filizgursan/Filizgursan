@@ -12,7 +12,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[![Merve Noyan](https://github-readme-medium.vercel.app/?username=Filizgursan)](https://medium.com/@filizzgursan)
+[![Filiz Gürsan](https://github-readme-medium.vercel.app/?username=Filizgursan)](https://medium.com/@filizzgursan)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
