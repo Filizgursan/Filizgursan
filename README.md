@@ -6,7 +6,7 @@
 
 👯  I’m looking to collaborate with other content creators
 
-🥅 2021 Goals: Learn and improve myself as much as I can
+🥅 2022 Goals: Learn and improve myself as much as I can
 
 📫 How to reach me **filizzgursan@gmail.com**
 
