@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hi there, I'm Filiz Gürsan 👋 </h1>
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/xfgursan?label=Follow&style=social)](https://github.com/xfgursan)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Filizgursan)   [![Github](https://img.shields.io/github/followers/filizsgursan?label=Follow&style=social)](https://github.com/filizsgursan)
 
 🔭 I’m currently working with React Native
 
