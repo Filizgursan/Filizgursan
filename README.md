@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/filiz-g%C3%BCrsan-56685a151/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filiz-g%c3%bcrsan-56685a151/" height="40" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filiz-g%c3%bcrsan-56685a151/" height="40" width="70" />
   </a>
-<a href="https://filizzgursan.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@filizgursan" height="40" width="40" /></a>
+<a href="https://filizzgursan.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@filizgursan" height="40" width="70" /></a>
 </p>
 
 
