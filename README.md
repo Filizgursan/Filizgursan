@@ -22,9 +22,6 @@
 <a href="https://filizzgursan.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@filizgursan" height="40" width="40" /></a>
 </p>
 
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filizsgursan&theme=tokyonight)
-
 
 
 
